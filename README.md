@@ -1,2 +1,2 @@
 # hello-world
-My first repository 
+ Today is a lovely day. Bright sunshine.
